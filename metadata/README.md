@@ -30,5 +30,8 @@ No effect on 16:9 monitors.
 ### HUD Squish
 Squishes the HUD elements closer to the center of the screen.
 
+### Settings Menu
+![HUD Settings](https://i.imgur.com/obWcO04.jpeg)
+
 ## Credits
 Special thanks to SuperHotDancer for suggesting this mod.
