@@ -10,7 +10,7 @@ namespace Ayzax.UltrawideHUD;
 
 [BepInProcess("PEAK.exe")]
 [BepInPlugin("Ayzax.UltrawideHUD", "Ultrawide HUD", "1.0.0")]
-[BepInDependency("JSPAPP-Settings_Extender-0.0.1")]
+[BepInDependency("SettingsExtender")]
 public class UltrawideHUDPlugin : BaseUnityPlugin
 {
     internal static new ManualLogSource Logger;
