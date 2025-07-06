@@ -1,7 +1,7 @@
 {
     "name": "Ultrawide_HUD",
     "website_url": "https://github.com/Ayyzax/PEAK_UltrawideHUD",
-    "version_number": "1.0.0",
+    "version_number": "1.0.1",
     "description": "HUD positioning options for ultrawide monitors.",
     "dependencies": [
       "BepInEx-BepInExPack_PEAK-5.4.2403",
